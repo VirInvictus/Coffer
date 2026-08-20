@@ -206,3 +206,13 @@ delete `research/` entirely; nothing here depends on it at build time.
 4. Only then write `spec.md` and a `roadmap.md` with a hard phase split:
    **read-only dashboard first** (supersedes the old read-first sketch), then the
    envelope-assignment write layer, then reconciliation, then import.
+
+### support
+
+if any of this is useful to you and you'd like to chip in:
+
+```
+bc1qkge6zr45tzqfwfmvma2ylumt6mg7wlwmhr05yv
+```
+
+https://liberapay.com/bdkl/
