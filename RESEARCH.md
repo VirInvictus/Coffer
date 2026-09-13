@@ -216,3 +216,10 @@ if any of this is useful to you and you'd like to chip in:
   ```
   bc1qkge6zr45tzqfwfmvma2ylumt6mg7wlwmhr05yv
   ```
+
+## Audit findings 2026-09-12 (six-lens full audit)
+
+- [ ] A public repo with no README: add three lines (Phase 0 research
+      dossier; see RESEARCH.md; no code yet) so the landing page renders.
+- [ ] Refresh the GitHub description when a spec lands ("now a git repo"
+      phrasing ages out).
